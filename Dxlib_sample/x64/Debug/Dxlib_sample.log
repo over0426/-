@@ -1,0 +1,10 @@
+﻿  GAME.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\Dxlib.h(3964,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  PLAY.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\Dxlib.h(3964,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  RESULT.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\Dxlib.h(3964,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  TITLE.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\Dxlib.h(3964,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  コードを生成中...
+  Dxlib_sample.vcxproj -> C:\Users\obatakuma\source\repos\Dxlib_sample\x64\Debug\Dxlib_sample.exe

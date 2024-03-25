@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="manager">
+      <UniqueIdentifier>{2a68adf2-ba51-4baa-b235-a8f0806244cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SCENE">
+      <UniqueIdentifier>{65e0e104-9fc0-446c-9aa1-a04264024b61}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GAME_OBJECT.cpp" />
+    <ClCompile Include="GAME.cpp">
+      <Filter>manager</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>manager</Filter>
+    </ClCompile>
+    <ClCompile Include="SCENE.cpp">
+      <Filter>SCENE</Filter>
+    </ClCompile>
+    <ClCompile Include="TITLE.cpp" />
+    <ClCompile Include="PLAY.cpp" />
+    <ClCompile Include="RESULT.cpp" />
+    <ClCompile Include="key.cpp" />
+    <ClCompile Include="CONTAINER.cpp" />
+    <ClCompile Include="VECTOR2.cpp" />
+    <ClCompile Include="ACTOR.cpp" />
+    <ClCompile Include="STONE.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GAME_OBJECT.h" />
+    <ClInclude Include="GAME.h">
+      <Filter>manager</Filter>
+    </ClInclude>
+    <ClInclude Include="SCENE.h">
+      <Filter>SCENE</Filter>
+    </ClInclude>
+    <ClInclude Include="TITLE.h" />
+    <ClInclude Include="PLAY.h" />
+    <ClInclude Include="RESULT.h" />
+    <ClInclude Include="key.h" />
+    <ClInclude Include="CONTAINER.h" />
+    <ClInclude Include="VECTOR2.h" />
+    <ClInclude Include="ACTOR.h" />
+    <ClInclude Include="STONE.h" />
+  </ItemGroup>
+</Project>

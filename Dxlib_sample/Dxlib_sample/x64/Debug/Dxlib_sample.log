@@ -1,0 +1,55 @@
+﻿  ACTOR.cpp
+C:\Users\obatakuma\source\repos\Dxlib_sample\STONE.h(4,12): error C2504: 'ACTOR': 定義されていない基底クラスが宣言されています。
+  (ソース ファイル 'ACTOR.cpp' をコンパイルしています)
+  
+C:\Users\obatakuma\source\repos\Dxlib_sample\STONE.h(9,10): error C3668: 'STONE::draw': オーバーライド指定子 'override' を伴うメソッドは、基底クラス メソッドをオーバーライドしませんでした
+  (ソース ファイル 'ACTOR.cpp' をコンパイルしています)
+  
+C:\Users\obatakuma\source\repos\Dxlib_sample\STONE.h(10,10): error C3668: 'STONE::proc': オーバーライド指定子 'override' を伴うメソッドは、基底クラス メソッドをオーバーライドしませんでした
+  (ソース ファイル 'ACTOR.cpp' をコンパイルしています)
+  
+  CONTAINER.cpp
+C:\Users\obatakuma\source\repos\Dxlib_sample\ACTOR.h(4,12): error C2504: 'GAME_OBJECT': 定義されていない基底クラスが宣言されています。
+  (ソース ファイル 'CONTAINER.cpp' をコンパイルしています)
+  
+  GAME.cpp
+  GAME_OBJECT.cpp
+C:\Users\obatakuma\source\repos\Dxlib_sample\ACTOR.h(4,12): error C2504: 'GAME_OBJECT': 定義されていない基底クラスが宣言されています。
+  (ソース ファイル 'GAME_OBJECT.cpp' をコンパイルしています)
+  
+  PLAY.cpp
+C:\Users\obatakuma\source\repos\Dxlib_sample\ACTOR.h(4,12): error C2504: 'GAME_OBJECT': 定義されていない基底クラスが宣言されています。
+  (ソース ファイル 'PLAY.cpp' をコンパイルしています)
+  
+C:\Users\obatakuma\source\repos\Dxlib_sample\PLAY.cpp(18,18): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\obatakuma\source\repos\Dxlib_sample\PLAY.cpp(19,33): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\obatakuma\source\repos\Dxlib_sample\PLAY.cpp(19,21): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  RESULT.cpp
+C:\Users\obatakuma\source\repos\Dxlib_sample\ACTOR.h(4,12): error C2504: 'GAME_OBJECT': 定義されていない基底クラスが宣言されています。
+  (ソース ファイル 'RESULT.cpp' をコンパイルしています)
+  
+C:\Users\obatakuma\source\repos\Dxlib_sample\RESULT.cpp(20,20): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\obatakuma\source\repos\Dxlib_sample\RESULT.cpp(21,37): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\obatakuma\source\repos\Dxlib_sample\RESULT.cpp(21,23): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  SCENE.cpp
+C:\Users\obatakuma\source\repos\Dxlib_sample\ACTOR.h(4,12): error C2504: 'GAME_OBJECT': 定義されていない基底クラスが宣言されています。
+  (ソース ファイル 'SCENE.cpp' をコンパイルしています)
+  
+  STONE.cpp
+C:\Users\obatakuma\source\repos\Dxlib_sample\GAME.h(36,7): error C2143: 構文エラー: ';' が '*' の前にありません。
+  (ソース ファイル 'STONE.cpp' をコンパイルしています)
+  
+C:\Users\obatakuma\source\repos\Dxlib_sample\GAME.h(36,7): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'STONE.cpp' をコンパイルしています)
+  
+C:\Users\obatakuma\source\repos\Dxlib_sample\GAME.h(36,36): error C2238: ';' の前に無効なトークンがあります。
+  (ソース ファイル 'STONE.cpp' をコンパイルしています)
+  
+  TITLE.cpp
+C:\Users\obatakuma\source\repos\Dxlib_sample\ACTOR.h(4,12): error C2504: 'GAME_OBJECT': 定義されていない基底クラスが宣言されています。
+  (ソース ファイル 'TITLE.cpp' をコンパイルしています)
+  
+C:\Users\obatakuma\source\repos\Dxlib_sample\TITLE.cpp(19,19): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\obatakuma\source\repos\Dxlib_sample\TITLE.cpp(20,34): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\obatakuma\source\repos\Dxlib_sample\TITLE.cpp(20,22): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  コードを生成中...
